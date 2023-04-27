@@ -1,2 +1,0 @@
-# IIIT_SURAT_TIMETABLE
-I Have made IIIT SURAT Time Table Using HTML, CSS and minimal JAVASCRIPT.
